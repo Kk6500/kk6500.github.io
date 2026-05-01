@@ -1,5 +1,7 @@
-remote_theme: benbalter/retlab
 title: kk6500's homepage
 description: A place to learn more about me
+
+remote_theme: "benbalter/retlab"
+
 plugins:
   - jekyll-remote-theme
