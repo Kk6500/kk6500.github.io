@@ -1,0 +1,13 @@
+subject: Experience
+listing-order: 4
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: "Tutor, University of the Cumberlands"
+    description:
+      - "Provided one-on-one tutoring in IT and Computer Science classes: Object-Oriented Programming, Databases, etc."
+      - "Simplified complex technical concepts, improving student performance."
+    date: "Feb. 2025 - Current"
+  - title: "Summer Missionary, Appalachian Ministries"
+    description:
+      - "Helped lead Vacation Bible School programs for 10-30 children with a 9-person team."
+    date: "May 2025 - Aug. 2025"

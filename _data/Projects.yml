@@ -1,0 +1,15 @@
+subject: Projects
+listing-order: 2
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: "Containerized Full-Stack Web Application"
+    description:
+      - "Built a three-container architecture (frontend, backend, database) using Docker Compose."
+      - "Implemented JWT authentication and Zod validation for input sanitization."
+      - "Integrated Prisma ORM for type-safe interaction with a normalized PostgreSQL database."
+    date: "2025"
+  - title: "Multi-Vendor Price Aggregator Web Scraper"
+    description:
+      - "Engineered a multi-site scraping loop to extract and process live market data using C# and Playwright."
+      - "Utilized LINQ for efficient data aggregation and precise numeric type handling."
+    date: "2026"

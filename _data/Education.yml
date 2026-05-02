@@ -1,0 +1,10 @@
+subject: Education
+listing-order: 3
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: "University of the Cumberlands"
+    description:
+      - "B.S. Information Technology (Cybersecurity) & Computer Science"
+      - "President’s & Dean’s List"
+    grade: "**GPA**: `3.96`"
+    date: "Aug. 2023 - May 2026"

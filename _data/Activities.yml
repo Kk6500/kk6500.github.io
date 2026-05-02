@@ -1,0 +1,12 @@
+subject: Activities & Home Lab
+listing-order: 5
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: "Home Lab Administration"
+    description:
+      - "Built and configured a personal bare-metal server environment using modified Chromebox hardware running Linux Ubuntu."
+      - "Utilized for hands-on practice with system administration, secure networking, and Linux CLI."
+  - title: "Extracurriculars"
+    description:
+      - "Weightlifting"
+      - "Basketball"

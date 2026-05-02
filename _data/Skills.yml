@@ -1,0 +1,13 @@
+subject: Technical Skills
+listing-order: 1
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: "Languages & Databases"
+    description:
+      - "Python, C#, TypeScript, JavaScript, SQL, PostgreSQL, MySQL"
+  - title: "Frameworks & DevOps"
+    description:
+      - "Node.js, React, Docker, Git, Linux CLI"
+  - title: "Cybersecurity"
+    description:
+      - "TCP/IP, Firewalls, Ethical Hacking, System Hardening"

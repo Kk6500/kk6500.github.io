@@ -1,7 +1,18 @@
-title: kk6500's homepage
-description: A place to learn more about me
+title: Kaden Matheny Portfolio
+description: Aspiring Software Engineer & Cybersecurity Professional
 
-remote_theme: "benbalter/retlab"
+remote_theme: "byanko55/jekyll-professional-resume"
 
 plugins:
   - jekyll-remote-theme
+
+# --- Theme Specific Profile Info ---
+profile_img: "imagine a photo of me here"
+icon_img: ""
+name: "Kaden N. Matheny"
+job: "Aspiring Software Engineer"
+phone_number: "+1 (606) 492 9950"
+address: "Williamsburg, Kentucky"
+email: "Kaden.matheny.40065@gmail.com"
+linkedin_username: "https://www.linkedin.com/in/kaden-matheny-427126383/"
+github_username: "kk6500"
