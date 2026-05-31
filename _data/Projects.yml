@@ -2,14 +2,21 @@ subject: Projects
 listing-order: 2
 icon: "/assets/img/clipboard-list.svg"
 contents:
+  - title: "Threat Intelligence SOAR Engine"
+    description:
+      - "Architected a decoupled Security Orchestration, Automation, and Response (SOAR) dashboard utilizing a Vue.js frontend with PrimeVue components and a Python/FastAPI backend."
+      - "Engineered a resilient threat intelligence parser to extract Indicators of Compromise (IOCs) from malformed .eml files, utilizing aggressive string sanitization to prevent backend crashes."
+      - "Integrated a custom REST API to handle asynchronous file uploads and data communication between the client interface and the backend processing engine."
+    date: "2026"
+  - title: "Multi-Vendor Price Aggregator Web Scraper"
+    description:
+      - "Architected an automated ETL pipeline that integrates a REST API via HttpClient to dynamically compare scraped real-time pricing against all-time historic lows."
+      - "Engineered a multi-site scraping loop to extract and process live market data using C# and Playwright."
+      - "Utilized LINQ for efficient data aggregation and precise numeric type handling."
+    date: "2026"
   - title: "Containerized Full-Stack Web Application"
     description:
       - "Built a three-container architecture (frontend, backend, database) using Docker Compose."
       - "Implemented JWT authentication and Zod validation for input sanitization."
       - "Integrated Prisma ORM for type-safe interaction with a normalized PostgreSQL database."
     date: "2025"
-  - title: "Multi-Vendor Price Aggregator Web Scraper"
-    description:
-      - "Engineered a multi-site scraping loop to extract and process live market data using C# and Playwright."
-      - "Utilized LINQ for efficient data aggregation and precise numeric type handling."
-    date: "2026"
