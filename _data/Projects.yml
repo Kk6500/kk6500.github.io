@@ -20,3 +20,7 @@ contents:
       - "Implemented JWT authentication and Zod validation for input sanitization."
       - "Integrated Prisma ORM for type-safe interaction with a normalized PostgreSQL database."
     date: "2025"
+  - title: "Home Lab Administration"
+    description:
+      - "Built and configured a personal bare-metal server environment using modified Chromebox hardware running Linux Ubuntu."
+      - "Utilized for hands-on practice with system administration, secure networking, and Linux CLI."
