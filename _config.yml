@@ -7,7 +7,7 @@ plugins:
   - jekyll-remote-theme
 
 # --- Theme Specific Profile Info ---
-profile_img: "assets/img/professional-pfp.png"
+profile_img: "asset/professional-pfp.png"
 icon_img: ""
 name: "Kaden N. Matheny"
 job: "Aspiring Software Engineer"
