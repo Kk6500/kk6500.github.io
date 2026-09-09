@@ -1,26 +1,14 @@
-subject: Projects
-listing-order: 2
+subject: Experience
+listing-order: 1
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Threat Intelligence SOAR Engine"
+  - title: "Tier 3 Support, Take2IT"
     description:
-      - "Architected a decoupled Security Orchestration, Automation, and Response (SOAR) dashboard utilizing a Vue.js frontend with PrimeVue components and a Python/FastAPI backend."
-      - "Engineered a resilient threat intelligence parser to extract Indicators of Compromise (IOCs) from malformed .eml files, utilizing aggressive string sanitization to prevent backend crashes."
-      - "Integrated a custom REST API to handle asynchronous file uploads and data communication between the client interface and the backend processing engine."
-    date: "2026"
-  - title: "Multi-Vendor Price Aggregator Web Scraper"
+      - "Provide Tier 3 technical support and troubleshooting for Veterans Benefits Management System (VBMS) applications."
+      - "Resolve complex network and system issues to ensure reliability for VA enterprise environments."
+    date: "Jul. 2026 - Present"
+  - title: "Tutor, University of the Cumberlands"
     description:
-      - "Architected an automated ETL pipeline that integrates a REST API via HttpClient to dynamically compare scraped real-time pricing against all-time historic lows."
-      - "Engineered a multi-site scraping loop to extract and process live market data using C# and Playwright."
-      - "Utilized LINQ for efficient data aggregation and precise numeric type handling."
-    date: "2026"
-  - title: "Containerized Full-Stack Web Application"
-    description:
-      - "Built a three-container architecture (frontend, backend, database) using Docker Compose."
-      - "Implemented JWT authentication and Zod validation for input sanitization."
-      - "Integrated Prisma ORM for type-safe interaction with a normalized PostgreSQL database."
-    date: "2025"
-  - title: "Home Lab Administration"
-    description:
-      - "Built and configured a personal bare-metal server environment using modified Chromebox hardware running Linux Ubuntu."
-      - "Utilized for hands-on practice with system administration, secure networking, and Linux CLI."
+      - "Provided one-on-one tutoring in IT and Computer Science classes: Object-Oriented Programming, Databases, etc."
+      - "Simplified complex technical concepts, improving student performance."
+    date: "Feb. 2025 - May 2026"
